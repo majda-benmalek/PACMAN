@@ -17,7 +17,7 @@ Pour exécuter le jeu, suivez ces étapes simples:
     
 
 ## Contact et Membres de l'équipe 
-La liste des membres de l'équipe est disponible dans le [fichier de contact](Contact.md) ainsi que nos coordonnées si besoin. 
+La liste des membres de l'équipe est disponible dans le [fichier Equipe.md](Equipe.md). 
 
 ## Vidéo de Rendu
 
